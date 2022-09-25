@@ -1,7 +1,7 @@
 import { Task } from './Task';
 
 export const TASKS: Task[] = [
-  {
+  /*{
     id: 1,
     text: 'Terminar el primer módulo de Angular',
     day: 'Agosto 5 a las 12:00',
@@ -24,5 +24,5 @@ export const TASKS: Task[] = [
     text: 'Leer mi libro',
     day: 'agosto 5 a las 21:00',
     reminder: false,
-  },
+  },*/
 ];
