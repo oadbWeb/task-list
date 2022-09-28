@@ -16,19 +16,13 @@
       "id": 3,
       "text": "Investigar sobre Boostrap",
       "day": "agosto 5 a las 19:00",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 4,
       "text": "Leer el libro delegados de los primeros",
       "day": "agosto 5 a las 21:00",
-      "reminder": false
-    },
-    {
-      "id": 5,
-      "text": "Ir al correo",
-      "day": "agosto 6 a las 8:00",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
